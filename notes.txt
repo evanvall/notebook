@@ -1,0 +1,23 @@
+# create a directory 
+mkdir <dir>
+
+# create or update timestamp of a file
+touch <file>
+
+# read a file
+cat <file>
+
+# update a file
+nano <file>
+
+# rename a file
+mv <oldfilename> <newfilename>
+
+# copy a file
+cp <file> <newfilename>
+
+# remove a file
+rm <file>
+
+# remove a directory
+rmdir <dir>
